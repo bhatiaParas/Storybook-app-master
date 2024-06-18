@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node app.js"
   },
-  "author": "Mandeep Saini",
+  "author": "Paras Bhatia",
   "license": "ISC",
   "dependencies": {
     "connect-mongo": "^3.2.0",
